@@ -20,7 +20,7 @@ Facilitator: [@tobie](https://github.com/tobie)
 - [@nainar](https://github.com/nainar) - Naina Raisinghani 
 - [@rsimha](https://github.com/rsimha) - Rhagu Simha
 - [@sebastianbenz](https://github.com/sebastianbenz) - Sebastian Benz
-- [@tobie](https://github.com/nainar) - Tobie Langel (Facilitator)
+- [@tobie](https://github.com/tobie) - Tobie Langel (Facilitator)
 
 The [wg-foundation-onboarding Github team](https://github.com/orgs/ampproject/teams/wg-foundation-onboarding) includes the members of this working group.
 
