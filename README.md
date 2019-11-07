@@ -29,7 +29,7 @@ The [wg-foundation-onboarding Github team](https://github.com/orgs/ampproject/te
 - The Foundation Onboarding Working Group will have **weekly meetings** to track onboarding progress, open to the community.  Notes from this meeting will serve as weekly status updates. Meetings are listed in the issue tracker using the ["Meeting" label](https://github.com/ampproject/wg-foundation-onboarding/labels/Meeting).
 - We will track onboarding work using the [ampproject Onboarding GitHub project](https://github.com/orgs/ampproject/projects/4) and the [OpenJS Foundation onboarding checklist issue](https://github.com/openjs-foundation/cross-project-council/issues/350)
 
-`@ampproject/wg-foundation-onboarding` can be used to mention the UI Working Group in issues and PRs.
+`@ampproject/wg-foundation-onboarding` can be used to mention the Foundation Onboarding Working Group in issues and PRs.
 
 # Code of Conduct
 This working group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
