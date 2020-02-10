@@ -1,0 +1,29 @@
+title: Foundation Onboarding
+description: The Foundation Onboarding Working Group is responsible for ensuring the successful completion of the OpenJS Foundation's onboarding process. For more context, see the [AMP announcement](https://blog.amp.dev/2019/10/10/amp-is-joining-the-openjs-foundation-incubation-program/) and [OpenJS Foundation announcement](https://openjsf.org/blog/2019/10/10/openjs-foundation-welcomes-amp-project-to-help-improve-user-experience-on-the-web/) of AMP joining the OpenJS Foundation's incubation program. To graduate from the incubation program, AMP must complete the [onboarding checklist](https://github.com/openjs-foundation/cross-project-council/issues/350). The WG maintains an org-level [project board](https://github.com/orgs/ampproject/projects/4) to track all issues related to this effort. The tentative date for graduation is December 10, 2019.
+facilitator:
+  login: tobie
+  name: Tobie Langel
+members:
+  - login: brianwarner
+    name: Brian Warner
+  - login: CrystalOnScript
+    name: Crystal Lambert
+  - login: Gregable
+    name: Greg Grothaus
+  - login: jrozier
+    name: Joey Rozier
+  - login: jorydotcom
+    name: Jory Burson
+  - login: nainar
+    name: Naina Raisinghani
+  - login: rsimha
+    name: Raghu Simha
+  - login: sebastianbenz
+    name: Sebastian Benz
+communication:
+ -  channel: slack
+    name: Slack
+    content:
+      - item: The Foundation Onboarding Working Group members will use `#wg-foundation-onboarding` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in the working group.
+      - item: The Foundation Onboarding Working Group will have weekly meetings to track onboarding progress, open to the community. Notes from this meeting will serve as weekly status updates. Meetings are listed in the issue tracker using the "Meeting" label.
+      - item: We will track onboarding work using the [ampproject Onboarding GitHub project](https://github.com/orgs/ampproject/projects/4) and the [OpenJS Foundation onboarding checklist issue](https://github.com/openjs-foundation/cross-project-council/issues/350).
