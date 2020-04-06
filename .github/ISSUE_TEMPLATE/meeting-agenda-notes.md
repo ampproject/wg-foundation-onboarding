@@ -14,7 +14,7 @@ MONTH, DATE at 9pm UTC ([see it in your timezone](https://www.timeanddate.com/wo
 
 # Video Call Information
  
-Google Meet meeting: https://meet.google.com/vkp-zfqb-ofi
+Google Meet meeting: https://meet.google.com/usy-zepr-bmm
 
 # Agenda
 
