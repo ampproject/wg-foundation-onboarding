@@ -28,6 +28,6 @@ communication:
  -  channel: github
     name: GitHub
     content:
-      - item: "The Foundation Onboarding Working Group will have **weekly meetings** to track onboarding progress, open to the community.  Notes from this meeting will serve as weekly status updates. Meetings are listed in the issue tracker using the ["Meeting" label](https://github.com/ampproject/wg-foundation-onboarding/labels/Meeting)."
+      - item: "The Foundation Onboarding Working Group will have **weekly meetings** to track onboarding progress, open to the community.  Notes from this meeting will serve as weekly status updates. Meetings are listed in the issue tracker using the [\"Meeting\" label](https://github.com/ampproject/wg-foundation-onboarding/labels/Meeting)."
       - item: "We will track onboarding work using the [ampproject Onboarding GitHub project](https://github.com/orgs/ampproject/projects/4) and the [OpenJS Foundation onboarding checklist issue](https://github.com/openjs-foundation/cross-project-council/issues/350)"
       - item: "The WG maintains an org-level [project board](https://github.com/orgs/ampproject/projects/4) to track all issues related to this effort."
